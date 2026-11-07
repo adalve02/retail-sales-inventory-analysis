@@ -24,6 +24,8 @@ Online Retail II, UCI Machine Learning Repository — 1,067,371 rows, 5,305 prod
 - **Long tail:** Top 10 products = only 7.3% of revenue; #1 product = 1.7%
 - **Note:** December 2011 is partial (data ends Dec 9)
 
+- **ABC analysis:** 21% of products (A) drive 80% of revenue; 53% of products (C) bring in only 5% — candidates for range review
+
 ## Tools
 SQL (SQLite), Python (Pandas), Power BI, Git
 
