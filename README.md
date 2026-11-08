@@ -30,6 +30,10 @@ Online Retail II, UCI Machine Learning Repository — 1,067,371 rows, 5,305 prod
 - **Master data quality:** 646 stock codes (12%) had inconsistent descriptions (typos, spacing, wording), and 171 products (3.5%) were split across duplicate codes differing only by upper/lower case — built a product master with one standard code and description per item (4,895 → 4,724 products)
 
 - **ABC analysis:** 1,035 products (22%) drive 80% of revenue; 2,432 products (52%) bring in only 5% — candidates for range review or markdowns
+
+## Dashboard
+   ![Sales Overview](images/dashboard_overview.png)
+
 ## Tools
 SQL (SQLite), Python (Pandas), Power BI, Git
 
